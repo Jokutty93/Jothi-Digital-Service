@@ -1,0 +1,6 @@
+# Robots.txt for Jothi Digital Service
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://jothidigital.com/sitemap.xml
